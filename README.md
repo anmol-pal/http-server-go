@@ -1,5 +1,7 @@
 # http-server-go
 
+[Create your own](https://app.codecrafters.io/r/combative-alligator-301586)
+
 USAGE
 ```
 ./your_server.sh
